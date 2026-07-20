@@ -28,5 +28,5 @@ Microsoft 365 Consultant with 13+ years of experience helping organizations impr
 
 ## Connect With Me
 
-- LinkedIn: (www.linkedin.com/in/danielgiessenburg/)[https://www.linkedin.com/in/danielgiessenburg/]
-- Website: (www.danielgiessenburg.nl)[https://www.danielgiessenburg.nl]
+- LinkedIn: [www.linkedin.com/in/danielgiessenburg/](https://www.linkedin.com/in/danielgiessenburg/)
+- Website: [www.danielgiessenburg.nl](https://www.danielgiessenburg.nl)
